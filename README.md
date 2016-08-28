@@ -5,6 +5,6 @@ python folder
 
 ```
 
-More lesssons..
+More lessons..
 
 https://learnpythonthehardway.org/book/ex1.html
